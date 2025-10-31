@@ -3,5 +3,6 @@ if hungry=="yes":
     print("Eat biriyani")
     print("Eat Chicken")
     print("Eat more")
+    print("Eat lot")
 else:
-    print("Do your work.")
+    print("Do your homework.")
